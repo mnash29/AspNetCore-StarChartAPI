@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.DependencyInjection;
-using StarChart.data;
+using StarChart.Data;
 using Microsoft.EntityFrameworkCore;
 
 namespace StarChart
